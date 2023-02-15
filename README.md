@@ -1,4 +1,5 @@
 # react-native-todo-app
+- A simple todo mobile application, where the user can list his tasks.
 ## Install Dependencies : 
 ```
 npm install
