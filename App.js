@@ -7,12 +7,6 @@ import { useState } from "react";
 export default function App() {
   const [list, setList] = useState([
     { id: 1, title: "Finish my react native course." },
-    { id: 2, title: "JS algorithms course." },
-    { id: 3, title: "Finish my react native course." },
-    { id: 4, title: "React testing course." },
-    { id: 5, title: "Finish ZamericanEnglish courses in level 2." },
-    { id: 6, title: "Finish ZamericanEnglish courses in level 3." },
-    { id: 7, title: "Pass the alx programme." },
   ]);
 
   const deleteItem = (id) => {
