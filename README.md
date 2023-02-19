@@ -2,7 +2,7 @@
 - A simple todo mobile application, where the user can list his tasks.
 ## Install Dependencies : 
 ```
-npm install
+npx expo install
 ```
 ### To start project in development mode : 
 ```
