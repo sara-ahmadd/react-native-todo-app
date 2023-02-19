@@ -1,5 +1,6 @@
 # react-native-todo-app
 - A simple todo mobile application, where the user can list his tasks.
+- Built with Expo cli.
 ## Install Dependencies : 
 ```
 npx expo install
